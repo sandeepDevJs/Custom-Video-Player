@@ -58,8 +58,15 @@ body {
   border-color: #ffc600;
 }
 
+.fullscreen{
+  background-color: transparent;
+  color: white; 
+  border: 0px solid transparent;
+  font-weight: bold;
+}
+
 .player__slider {
-  width: 10px;
+  width: 30px;
   height: 30px;
 }
 
